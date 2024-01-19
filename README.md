@@ -62,4 +62,3 @@ To address text with a link, first specify the word between [] and then write th
 * `git checkout nameBranch`: Brown and switch to a branch.
 * `git branch -d nameBranch`: Delete a branch
 * `git reset commit NameCommit`: Roll back a repository to a specific commit.
-
